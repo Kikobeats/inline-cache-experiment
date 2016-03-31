@@ -1,0 +1,16 @@
+{
+  "name": "inline-cache-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastbench": "~1.0.1",
+    "lodash": "~4.6.1"
+  }
+}
