@@ -1,6 +1,6 @@
 # Inline Cache Experiment
 
-```js
+```bash
 $ node index.js
 
 benchBase*1000: 1163.846ms
