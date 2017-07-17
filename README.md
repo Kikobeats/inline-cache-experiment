@@ -1,5 +1,7 @@
 # Inline Cache Experiment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/inline-cache-experiment.svg)](https://greenkeeper.io/)
+
 ```bash
 $ node index.js
 
